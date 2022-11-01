@@ -1,0 +1,2 @@
+CODEWARS: desafios de programacion todos los dias 
+Developer.mozilla.org (Todos los tipos de strings para probarlos y verlos bien)

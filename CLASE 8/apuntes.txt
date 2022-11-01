@@ -1,0 +1,28 @@
+Una querie es una consulta que se le hace a css
+En este caso vamos a consultar cual es el tamano de la pantalla
+Hariamos dos versiones con el diseno adaptativo. Una para web y una para celular
+Hay como 5 medidas estandars:
+1)Celulares extra chicos
+2)Celulares normales
+3)Tablets
+4)Notebooks y computadores de escritorio
+5)Computadoras extra grandes
+Si yo no quiero poner X cantidad de pixeles, puedo hacerlo a una orientacion determinada (por ejemplo a tablets)
+Puedo si quiero cambiar los tamanos de fuentes para los distintos tamanos de pantalla
+Pero siempre marcandole el tamano que va a tener la pantalla (para que entre en el recuadro por ejemplo y no lo sobrepase)
+Para cuando se desborda de la caja: overflow (es como que corta, no se sale directamente)
+
+Con las imagenes puedo utilizar el ancho maximo por ejemplo (Hace una cuadrado proporcional, no achica solo el ancho, sino que la proporciona)
+Seria:
+img{
+    widght:100%
+    height: auto
+}
+Puedo poner una imagen de fondo si quisiera 
+Puedo acceder a una imagen guardada en una carpeta o a una que esta subida en la web
+css style greyscale: pedirle a una imagen en css que se ponga en escala de grises
+
+Siempre se adapta al ancho del navegador si no le especificamos que ancho queremos, en un principio le decimos que el ancho va a ser siempre el de la pantalla y que se adapte a ello 
+
+Css siempre divide la web en 12 columnas
+Agregarle a la vista de la computadora y ajustar los anchos 

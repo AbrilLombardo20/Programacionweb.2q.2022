@@ -1,0 +1,11 @@
+Herramientas o reglas ya establecidas para llevar algo a cabo
+bootstrap
+cdn: red de distribucion de contenido. Esta el mismo archivo replicado en un moonton de lugares. 
+Siempre mientras que internet no se caiga, mi pagina va a funcionar perfectamente
+Dependiendo del tipo de button (boton) que yo quiera, debo colocar primary, secondary, entre otros que estan todos detallados en la pagina de bootstrap
+Pag: getbootstrap.com
+Si yo coloco en la hoja de styles luego de haber agregado la informacion que quiero para mi pagina !important, automaticamente lo va a tomar como algo importante y va a hacerlo por encima del resto
+Coloca todo por encima de todas las cosas.
+Es una mala practica usar el important
+breakpoints: son el estandar de las medidas de la industria. Ya estan todos hechos en esta pagina. 
+Container

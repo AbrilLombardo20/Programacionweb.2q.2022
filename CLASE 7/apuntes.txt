@@ -1,0 +1,20 @@
+display grid para armar una grilla
+En body hacemos un div
+Si colocamos grid: va a ser un bloque
+En cambio si colocamos inline grid va a tener el ancho que yo le diga
+grid-template-rows: me especifica el alto de las filas, puedo ponerle el que yo quiera
+No se usan porcentajes para la altura: en general se ajustan con el ancho
+No se ponen valores relativos en altura generalmente
+Tenemos muchas formas de space (ver en W3 school css contenedor de cuadricula)
+Justify content: para ver la alineación y dónde van a estar, si al principio, final, etc.
+Aline content para la alineación vertical.
+La grid-columnpropiedad define en qué columna(s) colocar un elemento.
+Usted define dónde comenzará el elemento y dónde terminará.
+Para colocar un elemento, puede hacer referencia a los números de línea o usar la palabra clave "span" para definir cuántas columnas abarcará el elemento.
+Puedo ponerle nombre a cada una de mis secciones para poder identificarlas mas facilmente
+
+GRID.LOYOUTIT.COM 
+para armar todas las filas y columnas me da los codigos
+
+fr me permite fraccionar a mi web en tamaños parejos y bien distribuidos; los fracciona 
+grid.layoutit.com

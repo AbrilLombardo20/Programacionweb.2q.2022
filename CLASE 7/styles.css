@@ -1,0 +1,20 @@
+.grilla{
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    background-color: blueviolet;
+    padding: 10px;
+}
+.grid-item{
+    background-color: aliceblue;
+    border: 1px solid black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+.grid-item1 {
+    grid-column:  1/ span 3;
+}
+.grid-item5{
+    grid-column: 3;
+    grid-row: 1/ span 2;
+}
